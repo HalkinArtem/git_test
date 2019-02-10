@@ -1,0 +1,1 @@
+This is Halkin Artem first Git project
